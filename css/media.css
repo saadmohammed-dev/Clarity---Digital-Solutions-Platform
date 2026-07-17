@@ -7,14 +7,6 @@
 
 }
 
-/* 
-@media (min-width:768px) {
-    .fs-48 {
-        font-size: 48px;
-    }
-
-} */
-
 @media (min-width: 992px) {
     header {
         .navbar-collapse {
