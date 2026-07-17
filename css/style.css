@@ -305,12 +305,6 @@ header {
             background: linear-gradient(to right, var(--color-primary), var(--color-secondary));
             --bs-btn-border-color: transparent;
             --bs-btn-hover-border-color: transparent;
-            transition: box-shadow .3s;
-
-            &:hover {
-                box-shadow: 0 .3125rem .9375rem 0 var(--color-primary);
-
-            }
         }
 
         .btn:first-child:active,
